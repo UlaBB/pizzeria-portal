@@ -32,7 +32,7 @@
 # Widok kelnera
 
 - /waiter
-    - w wierszach soliki
+    - w wierszach stoliki
     - w kolumnach różne rodzaje info:
         - status
         - czas od ostatniej aktywności
